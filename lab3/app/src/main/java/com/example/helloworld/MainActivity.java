@@ -70,6 +70,11 @@ public class MainActivity extends AppCompatActivity {
         MainActivity.this.startActivity(myIntent);
     }
 
+    public void moveToChart(View view) {
+        Intent myIntent = new Intent(MainActivity.this, ChartActivity.class);
+        MainActivity.this.startActivity(myIntent);
+    }
+
     private void showMessage(float bmi, int indexOfChild, float weight, float height, float age) {
         String message = "";
         String foodRecomendation = "";
