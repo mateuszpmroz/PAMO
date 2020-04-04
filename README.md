@@ -11,9 +11,24 @@
 Welcome Screen:
 
 
-![lab02welcome](https://github.com/mateuszpmroz/PAMO/blob/master/lab2/lab2_welcome_screen.PNG)
+![welcomescreen](https://github.com/mateuszpmroz/PAMO/blob/master/lab2/lab2_welcome_screen.PNG)
 
 Calculator: 
 
 
-![lab02welcome](https://github.com/mateuszpmroz/PAMO/blob/master/lab2/lab2.PNG)
+![calculator](https://github.com/mateuszpmroz/PAMO/blob/master/lab2/lab2.PNG)
+
+
+### Lab 03
+
+Quiz
+
+![quiz](https://github.com/mateuszpmroz/PAMO/blob/master/lab2/lab3_quiz.PNG)
+
+Chart: 
+
+![chart](https://github.com/mateuszpmroz/PAMO/blob/master/lab2/lab3_chart.PNG)
+
+Welcome:
+
+![welcome](https://github.com/mateuszpmroz/PAMO/blob/master/lab2/lab3_choose.PNG)
