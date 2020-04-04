@@ -23,12 +23,12 @@ Calculator:
 
 Quiz
 
-![quiz](https://github.com/mateuszpmroz/PAMO/blob/master/lab3/lab3_quiz.PNG)
+![quiz](https://github.com/mateuszpmroz/PAMO/blob/master/lab3/lab3_quiz.png)
 
 Chart: 
 
-![chart](https://github.com/mateuszpmroz/PAMO/blob/master/lab3/lab3_chart.PNG)
+![chart](https://github.com/mateuszpmroz/PAMO/blob/master/lab3/lab3_chart.png)
 
 Welcome:
 
-![welcome](https://github.com/mateuszpmroz/PAMO/blob/master/lab3/lab3_choose.PNG)
+![welcome](https://github.com/mateuszpmroz/PAMO/blob/master/lab3/lab3_choose.png)
