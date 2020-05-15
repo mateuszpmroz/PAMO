@@ -32,3 +32,8 @@ Chart:
 Welcome:
 
 ![welcome](https://github.com/mateuszpmroz/PAMO/blob/master/lab3/lab3_choose.png)
+
+
+### Lab 04
+
+Project was upgraded from java to kotlin
